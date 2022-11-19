@@ -1,2 +1,6 @@
-# leetcode
-My solutions to various Leetcode practice problems 
+# LeetCode X ZZ Solutions
+Solutions to various Leetcode practice problems
+<br>
+[@zzmasoud on LeetCode](https://leetcode.com/zzmasoud/)
+---
+
