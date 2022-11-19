@@ -6,4 +6,4 @@ Solutions to various Leetcode practice problems
 
 | ID | Title | Solution | Runtime (Beats %) | Memory (Beats %)
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | [Title](https://leetcode.com/problems/two-sum/) | [Link to file](https://github.com/zzmasoud) | 32ms (70%) | 10MB (80%) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [LC13](Solutions/LC13.swift) | 25ms (82.27%) | 14.3MB (78.39%) |
